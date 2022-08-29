@@ -1,0 +1,10 @@
+.bodymain{
+    background:linear-gradient(to left, rgb(0, 2, 97), rgb(82, 82, 82));
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    color:white;
+    align-content: center !important;
+  }
+  
+  
